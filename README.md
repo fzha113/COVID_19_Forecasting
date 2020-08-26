@@ -9,6 +9,7 @@
 ## Data Cleaning
   1. Removal of missing value.
   2. take the absolute value of those wrong input values.
+  3. Encoding 'Target', 'County', 'Province_State' features.
 
 ## Train Test Split
   1. The data prior to 10/May as the train data and the data after 10/May as the test data.
